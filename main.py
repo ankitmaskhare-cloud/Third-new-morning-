@@ -12,7 +12,7 @@ from telebot import TeleBot, types
 from telebot.types import MessageEntity
 
 BOT_TOKEN = "8874395177:AAE0x-pdE9IMYSB-aQDwnKDNYKzGKlRuqD8"
-ADMIN_IDS = [8498419947, 6862525056]
+ADMIN_IDS = [6487899482, 6862525056]
 
 # 📁 RENDER SAFE PATH
 DATA_FILE = os.path.join(os.getcwd(), "data.json")
